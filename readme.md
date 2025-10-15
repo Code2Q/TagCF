@@ -1,4 +1,5 @@
-## Tag-based Logic Reasoning for Recommendation with Large Language Models
+## Who You Are Matters: Bridging Topics and Social
+Roles via LLM-Enhanced Logical Recommendation
 
 
 ### Requirements
